@@ -1,0 +1,12 @@
+site_name: Ghana Exchange Rates
+site_url: https://ghanarates.github.io
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Userguide: userguide.md
+  - Contribution: contribution.md
+  - References: references.md
+  - About: about.md
+
+
+theme: readthedocs
